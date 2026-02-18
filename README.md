@@ -1,3 +1,12 @@
+<p align="center">
+  <img src=""C:\Users\kathir\Downloads\crypto-tokeowallet.gif"" width="650"/>
+</p>
+
+<h3 align="center">while(alive){ eat(); sleep(); code(); repeat(); }</h3>
+
+
+
+
 <h1 align="center">Hi 👋, I'm kathirvel N</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
