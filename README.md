@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/6uSeohwsE00AAAAd/crypto-tokeowallet.gif" width="650"/>
+  <img src="https://giphy.com/gifs/ABCNT-focused-abcnt-stay-T64PSPOTXlbr7OTR7B" width="650"/>
 </p>
 
 <h3 align="center">while(alive){ eat(); sleep(); code(); repeat(); }</h3>
