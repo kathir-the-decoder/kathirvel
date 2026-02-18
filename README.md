@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/ABCNT-focused-abcnt-stay-T64PSPOTXlbr7OTR7B" width="650"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWduNzhmMWJzZzlrcXRtY3FuZmRiZ3gybW9xMnlyazVnN3J1MnI5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T64PSPOTXlbr7OTR7B/giphy.webp" width="650"/>
 </p>
 
 <h3 align="center">while(alive){ eat(); sleep(); code(); repeat(); }</h3>
