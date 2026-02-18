@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/kathir/Downloads/hacker_animation.gif" width="650"/>
+  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJwC2dfGA9ZGGYIQGW9xBE4kJpoQcI1Oj0fm1GOvbUAqOrpwd6" width="650"/>
 </p>
 
 <h3 align="center">while(alive){ eat(); sleep(); code(); repeat(); }</h3>
